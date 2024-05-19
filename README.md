@@ -5,7 +5,7 @@ The dataset under analysis comprises 420 applications spanning across 21 differe
 This comprehensive dataset provides a robust foundation for examining the characteristics and performance metrics of these applications across diverse genres.
 
 ## Key Findings: 
-**Top 5 genres based on ratings:**
+**Top 5 genres based on ratings and total rating count:**
   1. Navigation
   2. Games
   3. Food & Drink
