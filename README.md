@@ -32,7 +32,7 @@ This comprehensive dataset provides a robust foundation for examining the charac
 - There is a weak correlation between language count and ratings.
 - There is a weak correlation between pricing and ratings.
 
-## Analysis
+## Data Visualisation
 Click [here](https://public.tableau.com/shared/2MB8783D3?:display_count=n&:origin=viz_share_link) to view interactive dashboard.
 
 ![App Store Analysis visual 1](https://github.com/zrseah/App_Store_Analysis/assets/161100014/17152604-f04f-4d24-9cb2-a9dd61c64d80)
